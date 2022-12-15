@@ -4,7 +4,7 @@ Le projet de Radar que l'on avait initialement prévu ne semble pas assez comple
 
 On essaye de trouver des alternatives à notre projet de départ qui semble de plus en plus dur à complexifier. Nous avons eu l'idée d'une chattière intelligente en plus du distributeur. A voir sur quoi on va se diriger.
 
-Nous sommes fixé: on garde l'idée du radar. Les premières pièces comme l'écran et le moteur nous ont été fournies.
+Nous sommes fixé: on garde l'idée du radar. Les premières pièces comme l'écran et le servomoteur nous ont été fournies.
 
 
 Installation du programme ServoMoteur 
