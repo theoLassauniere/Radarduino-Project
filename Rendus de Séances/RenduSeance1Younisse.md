@@ -9,5 +9,7 @@ Nous sommes fixé: on garde l'idée du radar. Les premières pièces comme l'éc
 
 Installation du programme ServoMoteur : 
 
+Mise en fonctionnement et programmation du servoMoteur qui va permettre au radar (qu'on installera par la suite) de tourner pour capter les distances des objets afin de connaitre/calculer la vitesse des objets.
+
 ![image](https://user-images.githubusercontent.com/120555915/207870243-e310695b-454b-4276-994a-e6fef6f48c20.png)
 
