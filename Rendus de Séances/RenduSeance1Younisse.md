@@ -7,4 +7,7 @@ On essaye de trouver des alternatives à notre projet de départ qui semble de p
 Nous sommes fixé: on garde l'idée du radar. Les premières pièces comme l'écran et le servomoteur nous ont été fournies.
 
 
-Installation du programme ServoMoteur 
+Installation du programme ServoMoteur : 
+
+![image](https://user-images.githubusercontent.com/120555915/207870243-e310695b-454b-4276-994a-e6fef6f48c20.png)
+
