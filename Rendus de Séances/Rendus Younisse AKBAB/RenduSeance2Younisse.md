@@ -1,6 +1,6 @@
 Début de 2e séance :
 
-Le projet de Radar est en progression.
+Le projet de Radar est en progression. J'ai repris le programme du servomoteur pour le completer, le terminer et modifier le code du programme pour changer la vitesse de rotation du servomoteur.
 
 Mise en place du ServoMoteur :
 
@@ -21,3 +21,5 @@ de ce radar a la prochaine séance.
 
 Programme du code du servomoteur et du capteur à distance
 [Programme du servomoteur et du capteur a distance.zip](https://github.com/Younisse/Radarduino/files/10354113/Programme.du.servomoteur.et.du.capteur.a.distance.zip)
+
+A faire à la prochaine séance : Réaliser un montage pour le capteur GARMIN LIDAR-Life V3HP et le tester.
