@@ -11,4 +11,13 @@ N'ayant pas de solution pour le moment, j'aide mon binôme à connecter et à co
 
 Ceci étant fait, la prochaine étape consiste à tester notre capteur à distance. Il s'agit du capteur vl53l0x.
 Après l'avoir branché et programmé, nous nous apercevons qu'il ne capte pass des objets à une distance > 2m. 
-Nous changeons donc notre capteur par un 
+Nous changeons donc notre capteur par un GARMIN LIDAR-Life V3HP. Celui-ci est bien plus performant, car il devrait pouvoir capter des objets situés à maximum 40 mètres.
+
+
+<img src="https://user-images.githubusercontent.com/120557548/210833669-fff4c1b0-4343-4cd4-954b-0261e1010dfd.jpg" width = 30% heigth = 30%>
+montage du capteur vl53l0x
+
+**A faire** : Réaliser un montage pour le capteur GARMIN LIDAR-Life V3HP et le tester et résoudre le problème écran
+
+
+[code servomoteur.zip](https://github.com/Younisse/Radarduino/files/10353971/code.servomoteur.zip)
