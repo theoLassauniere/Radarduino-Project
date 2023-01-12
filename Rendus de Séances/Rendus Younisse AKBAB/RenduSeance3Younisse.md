@@ -7,7 +7,8 @@ montage de l'ecran LED :
 ![image](https://user-images.githubusercontent.com/120555915/212082612-afda78ae-2054-44fe-8921-e281ae6a94be.png)
 
 
-Après avoir faire fonctionné le servomoteur, j'ai commencé par reprendre le montage du capteur LIDAR avec mon binome cepandant cela n'a pas marché on du faire appel aux professeurs qui ont essayé de resoudre ça. Conclusion : le radar LIDAR ne fonctionne pas.
+Après avoir faire fonctionné le servomoteur, on a commencé par reprendre le montage du capteur LIDAR avec mon binome, mon binome a fait tout le montage et le code du radar correctement cepandant cela n'a pas marché on du faire appel aux professeurs qui ont essayé de resoudre ça. 
+Conclusion : le radar LIDAR ne fonctionne pas.
 
 De plus,
 
