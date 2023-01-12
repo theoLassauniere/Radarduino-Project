@@ -13,7 +13,8 @@ Cependant, une fois le téléversement terminé, rien ne s'affiche sur le monite
 
 Après avoir observé mon montage, je me rends compte que j'avais intervertis les 2 fils sda et sdl. Ayant bon espoir, je retente de téléverser mon code dans le capteur.
 Montage Final: 
-<img src="https://user-images.githubusercontent.com/120557548/212120465-9298152c-0b8f-41f3-a80b-a5f5bb3f47b0.jpg" width: 30% length: 30%>
+
+<img src="https://user-images.githubusercontent.com/120557548/212120465-9298152c-0b8f-41f3-a80b-a5f5bb3f47b0.jpg" width: 30% heigth: 30%>
 
 
 
