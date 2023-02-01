@@ -10,6 +10,9 @@ le servomoteur fonctionne et nous l'avons deja coder et c'est parfait !
 lors de la séance précedente j'avais modélisé en 3D les pièces de la conception/décor de notre radar plus précisement j'avais modélisé le socle du radar et le couvercle 
 du socle du radar. 
 
+![image](https://user-images.githubusercontent.com/120555915/216028265-22acd4f2-ea9c-4737-9fbb-4616b2d3f080.png)
+Mon binome a programmé et codé ce capteur de distance qui nous permettra plus tard de calculé la vitesse d'un objet
+
 J'ai donc continué de modéliser les pièces du radar durant cette séance.
 J'ai modéliser le support de l'écran, le couvercle n°1 de l'écran et le couvercle n°2 de l'écran.
 
@@ -22,3 +25,10 @@ Ceci est le couvercle n°1 de l'écran qui sera posé sur le socle de l'écran
 
 ![image](https://user-images.githubusercontent.com/120555915/216026782-7ec3394e-c4f9-4dc8-8e68-3bce2519017d.png)
 Et pour finir cette pièce est le couvercle n°2 de l'ecran qui sera vissé avec le couvercle n°1 et l'écran sera posé dessus
+
+Après avoir fini ces pièces la j'ai demandé a imprimer toutes les pièces avec l'imprimante 3D mais ils seront imprimés pour la semaine prochaine car cela prend 25/30h d'impression
+
+Prochaine séance : finir la modélisation du socle du capteur et tout imprimé
+finition des pièces électronique et tout codé et faire fonctionné
+
+
