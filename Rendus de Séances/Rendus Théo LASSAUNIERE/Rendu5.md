@@ -9,6 +9,10 @@ On a donc changé pour la énième fois de capteur. Niormalement, notre capteur 
 En attendant, le Professeur nous a donné un autre modèle de capteur laszer, le Lidar Tf-Mini-S.
 Il fonctionne comme notre ancien ccapteur Lidar, mais avec une portée et une précision réduite.
 
+Image du capteur :
+
+<img src="https://user-images.githubusercontent.com/120555915/216028265-22acd4f2-ea9c-4737-9fbb-4616b2d3f080.png" width = 30% heigth = 30%>
+
 A la fin de la séance, j'ai trouvé un code pour mesurer une distance à l'aide de mon capteur et à l'afficher sur le moniteur série.
 
 #### Objectif  pour la séance n°6 :
