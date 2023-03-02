@@ -3,8 +3,7 @@ Compte rendu séance 8 :
 Toutes les pièces de la modélisation 3D sont imprimés et sont en parfaite harmonisation avec la dimension des pièces électronique.
 J'ai commencé l'assemblage des pièces 3D avec mon binôme pour former le RADARDUINO 
 
-nous avons commencé par fermer la boite du radar et mettre a l'intérieur la Carte 
-arduino UNO ainsi que la breadboard, cepandant pour faire passer le cable USB dans la boite nous avons percer un trou grace à la perceuse au FABLAB et nous avons limer le trou pour que le cable USB rentre parfaitement dans la boite du RADARDUINO.
+nous avons commencé par fermer la boite du radar et mettre a l'intérieur la Carte arduino UNO ainsi que la breadboard que nous avons fixer avec du scotch double face, cepandant pour faire passer le cable USB dans la boite nous avons percer un trou grace à la perceuse au FABLAB et nous avons limer le trou pour que le cable USB rentre parfaitement dans la boite du RADARDUINO.
 ![image](https://user-images.githubusercontent.com/120555915/222396380-a5e9d1c2-4ab0-44fe-a831-428f544896a8.png)
 ![image](https://user-images.githubusercontent.com/120555915/222395956-b3994ba8-f106-444b-a391-8ee248f360ab.png)
 
