@@ -1,2 +1,2 @@
 # Radarduino / Younisse AKBAB - Theo LASSAUNIERE
-Radar de vitesses qui flash  si un objet dépasse la limite de vitesse autorisé et qui affiche la vitesse de l'objet sur le radar 
+Radar qui permet de calculer la vitesse d'un objet et d'afficher cette vitesse sur l'écran du radar 
